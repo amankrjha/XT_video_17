@@ -1,0 +1,10 @@
+h1{
+	font-size: 100px;
+	text-align: left;
+	margin-top: 50px;
+	font-family: sans-serif;
+	text-transform: lowercase;
+	color: white;
+	text-shadow: 500px 0px 12px black;
+
+}
